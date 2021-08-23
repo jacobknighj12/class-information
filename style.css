@@ -1,0 +1,24 @@
+html 
+{
+background-color: beige;
+}
+ul 
+{
+    list-style-position: inside;
+    text-align: center;
+}
+body 
+{
+
+}
+h1 
+{
+ color: rgb(95, 95, 94);
+}
+h2
+{
+    color: rgb(95, 95, 94);
+}
+.titles{
+    text-align: center;
+}
