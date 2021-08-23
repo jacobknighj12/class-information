@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    
+    text-align: center;
     }
 
 html 
@@ -13,8 +13,8 @@ margin: 0px;
 ul 
 {
     list-style-position: inside;
-    text-align: center;
-}
+    text-align: top;
+    }
 body 
 {
     background-image: url("../class-information/android-chrome-256x256.png");
@@ -22,7 +22,7 @@ body
 h1 
 {
  color: rgb(95, 95, 94);
- margin: 0px;
+ margin: 0px; 
 }
 h2
 {
@@ -32,4 +32,13 @@ h2
 .titles{
     text-align: center;
     margin: 0px;
+    background-color: rgb(34, 34, 31);
+    border: rgb(26, 25, 25);
+    border-top-style: double;
+    border-bottom-style: double;
+    border-width: 7px;
+}
+.table{
+    padding-left: 35%;
+    
 }
