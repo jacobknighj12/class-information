@@ -1,6 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    }
+
 html 
 {
 background-color: beige;
+margin: 0px;
 }
 ul 
 {
@@ -9,16 +17,19 @@ ul
 }
 body 
 {
-
+    background-image: url("../class-information/android-chrome-256x256.png");
 }
 h1 
 {
  color: rgb(95, 95, 94);
+ margin: 0px;
 }
 h2
 {
     color: rgb(95, 95, 94);
+    margin: 0px;
 }
 .titles{
     text-align: center;
+    margin: 0px;
 }
