@@ -22,14 +22,17 @@ body
 h1 
 {
  color: rgb(95, 95, 94);
- margin: 0px; 
+ text-align: center;
+    margin: 0px;
+    background-color: rgb(34, 34, 31);
+    border: rgb(26, 25, 25);
+    border-top-style: double;
+    border-bottom-style: double;
+    border-width: 7px;
 }
 h2
 {
     color: rgb(95, 95, 94);
-    margin: 0px;
-}
-.titles{
     text-align: center;
     margin: 0px;
     background-color: rgb(34, 34, 31);
@@ -38,7 +41,35 @@ h2
     border-bottom-style: double;
     border-width: 7px;
 }
-.table{
+.titles
+{
+    text-align: center;
+    margin: 0px;
+    background-color: rgb(34, 34, 31);
+    border: rgb(26, 25, 25);
+    border-top-style: double;
+    border-bottom-style: double;
+    border-width: 7px;
+}
+.table
+{
     padding-left: 35%;
     
+}
+.name 
+{
+    color: rgb(95, 95, 94);
+}
+#my-photo
+{
+
+}
+
+.links
+{
+
+}
+.container
+{
+
 }
